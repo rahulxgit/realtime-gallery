@@ -58,10 +58,7 @@ npm run dev
 http://localhost:5173
 
 🌐 Live Demo (Deployed Link)
-
 👉 https://realtime-gallery-tau.vercel.app/
-
-(Will update after deployment)
 
 🔌 API Handling Strategy
 🔹 Unsplash API
@@ -241,6 +238,3 @@ LinkedIn: https://linkedin.com/in/rahulxnit
 
 🌟 Thank you FotoOwl Team!
 Excited to showcase my skills & grow through this internship opportunity 🚀
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
